@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 tfx = "*"
+apache-beam = {extras = ["interactive"], version = "*"}
 
 [dev-packages]
 
