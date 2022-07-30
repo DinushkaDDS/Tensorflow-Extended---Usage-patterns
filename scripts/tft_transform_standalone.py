@@ -3,6 +3,7 @@ import tempfile
 import tensorflow_transform.beam as tft_beam
 import pprint
 import tensorflow as tf
+import tensorflow_transform as tft
 from tensorflow_transform.tf_metadata import dataset_metadata, schema_utils
 
 raw_data = [
