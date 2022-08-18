@@ -1,0 +1,1 @@
+### Based on the book 'Building Machine Learning Pipelines Automating Model Life Cycles with TensorFlow' by Hannes Hapke and Catherine Nelson.
